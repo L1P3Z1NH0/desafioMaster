@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "email": "mexerica@hotmail.com",
+      "name": "Robson",
+      "text": "mc chicken",
+      "id": 1
+    },
+    {
+      "email": "amsd@asda.com",
+      "name": "Carlinhos Maia",
+      "text": "anao",
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
